@@ -1,0 +1,11 @@
+Restaurant Name,City,Cuisines,Price range,Aggregate rating,Similarity
+Happy Hakka,New Delhi,Chinese,2,4.1,1.0
+The Culinary Pitaara,New Delhi,"North Indian, Chinese",2,4.2,0.654457698459724
+Kennedy's,New Delhi,"Chinese, Fast Food",1,4.1,0.5165924095451838
+Rajinder Da Dhaba,New Delhi,"North Indian, Mughlai, Chinese",2,4.3,0.4715649118658607
+London Street Kitchen,New Delhi,"North Indian, Mughlai, Chinese",2,4.2,0.4715649118658607
+Food Scouts,New Delhi,"North Indian, Chinese, Continental",2,4.6,0.4579877909349674
+Indus Flavour,New Delhi,"North Indian, Chinese, Cafe",2,4.1,0.43777260369768184
+Big Wong,New Delhi,"Chinese, Thai",2,4.3,0.42954477910230465
+Munch Nation,New Delhi,"Fast Food, Italian, Chinese",1,4.0,0.40073117232626093
+Ever Bake,New Delhi,"Bakery, Chinese, Fast Food",1,4.0,0.39802395903118654

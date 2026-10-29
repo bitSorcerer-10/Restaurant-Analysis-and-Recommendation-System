@@ -1,0 +1,1606 @@
+Actual Cuisine,Predicted Cuisine
+North Indian,Bakery
+Chinese,Chinese
+North Indian,North Indian
+American,American
+North Indian,North Indian
+Mithai,Street Food
+Bakery,Bakery
+Fast Food,Fast Food
+Chinese,Chinese
+Cafe,Cafe
+Cafe,Cafe
+North Indian,Continental
+North Indian,Cafe
+Chinese,North Indian
+Bakery,Bakery
+North Indian,Fast Food
+Bakery,Fast Food
+South Indian,North Indian
+North Indian,Chinese
+Cafe,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+Street Food,North Indian
+Cafe,Cafe
+Chinese,North Indian
+Pizza,Pizza
+Mughlai,Mughlai
+Pizza,Italian
+Bakery,Fast Food
+American,American
+Chinese,Chinese
+Chinese,Fast Food
+North Indian,North Indian
+Chinese,North Indian
+Chinese,North Indian
+Italian,Italian
+North Indian,North Indian
+North Indian,North Indian
+Mithai,Mithai
+Continental,Continental
+Street Food,Mithai
+North Indian,North Indian
+North Indian,North Indian
+South Indian,South Indian
+Cafe,North Indian
+North Indian,Mughlai
+Bakery,Bakery
+Fast Food,Fast Food
+Bakery,Bakery
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+North Indian,Italian
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,Fast Food
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,Chinese
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Chinese,North Indian
+North Indian,Continental
+Bakery,Bakery
+Ice Cream,Ice Cream
+Fast Food,South Indian
+North Indian,Continental
+North Indian,Fast Food
+North Indian,North Indian
+Continental,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,North Indian
+Bakery,Bakery
+Fast Food,Bakery
+North Indian,North Indian
+Continental,Continental
+Bakery,Bakery
+North Indian,Continental
+Desserts,Bakery
+Fast Food,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Desserts,Cafe
+Chinese,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+Fast Food,Fast Food
+North Indian,North Indian
+Street Food,Street Food
+North Indian,Mughlai
+Chinese,Chinese
+American,American
+North Indian,Mithai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Mughlai,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+Street Food,Mithai
+American,Fast Food
+Fast Food,Fast Food
+North Indian,North Indian
+South Indian,South Indian
+Italian,Continental
+Bakery,Desserts
+Fast Food,Fast Food
+Fast Food,Fast Food
+Cafe,Mughlai
+Italian,Italian
+Bakery,Bakery
+Cafe,Cafe
+Cafe,Italian
+Fast Food,Fast Food
+Pizza,Pizza
+Mithai,Mithai
+Italian,Italian
+Street Food,North Indian
+Bakery,Bakery
+Fast Food,Fast Food
+North Indian,Mughlai
+Chinese,Pizza
+Italian,Italian
+Fast Food,Fast Food
+South Indian,Chinese
+North Indian,North Indian
+Bakery,Bakery
+Fast Food,Fast Food
+Desserts,Desserts
+Italian,Italian
+American,Cafe
+Street Food,North Indian
+North Indian,North Indian
+Mughlai,Mughlai
+Bakery,Bakery
+American,American
+Mughlai,North Indian
+Chinese,Mughlai
+Bakery,Bakery
+American,American
+South Indian,South Indian
+North Indian,Mughlai
+Pizza,Pizza
+North Indian,North Indian
+Mithai,Mithai
+Chinese,Chinese
+Fast Food,Chinese
+Continental,Italian
+Mithai,Mithai
+Cafe,Cafe
+North Indian,Chinese
+North Indian,North Indian
+Mithai,Mithai
+Fast Food,Fast Food
+Continental,Continental
+Pizza,Pizza
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Chinese,North Indian
+North Indian,Continental
+Fast Food,South Indian
+Chinese,North Indian
+Cafe,Cafe
+Continental,Cafe
+North Indian,North Indian
+Bakery,Bakery
+North Indian,North Indian
+Cafe,Mughlai
+Mithai,Mithai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Cafe
+Desserts,North Indian
+North Indian,Street Food
+Cafe,Cafe
+Bakery,Bakery
+North Indian,North Indian
+Ice Cream,Fast Food
+Mithai,North Indian
+North Indian,Street Food
+Street Food,Mithai
+North Indian,North Indian
+Pizza,Italian
+American,Fast Food
+Italian,American
+Bakery,Bakery
+Bakery,Bakery
+Italian,Cafe
+Chinese,Fast Food
+Pizza,Pizza
+American,American
+Street Food,Street Food
+Chinese,Cafe
+Chinese,Cafe
+Desserts,Fast Food
+American,Desserts
+North Indian,North Indian
+Bakery,Bakery
+South Indian,Street Food
+North Indian,Bakery
+Ice Cream,Ice Cream
+Chinese,Chinese
+Chinese,North Indian
+North Indian,Mughlai
+North Indian,Cafe
+Mithai,Mithai
+Chinese,Chinese
+Chinese,Fast Food
+Chinese,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+Fast Food,North Indian
+Bakery,Bakery
+Bakery,Bakery
+North Indian,North Indian
+Fast Food,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+Chinese,North Indian
+North Indian,North Indian
+Chinese,Chinese
+Cafe,Cafe
+Chinese,Chinese
+Italian,Italian
+North Indian,North Indian
+North Indian,Cafe
+North Indian,Mughlai
+Cafe,Cafe
+Chinese,Chinese
+Desserts,Bakery
+Cafe,Desserts
+Fast Food,Chinese
+American,American
+American,American
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+Fast Food,Street Food
+Street Food,Street Food
+Ice Cream,Ice Cream
+South Indian,South Indian
+Street Food,Street Food
+Italian,American
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+Chinese,Cafe
+North Indian,Italian
+North Indian,North Indian
+Cafe,Cafe
+North Indian,Continental
+North Indian,North Indian
+Italian,Continental
+Italian,Chinese
+North Indian,North Indian
+North Indian,Fast Food
+Fast Food,Fast Food
+North Indian,North Indian
+Italian,Italian
+Cafe,Italian
+North Indian,North Indian
+North Indian,North Indian
+Bakery,Bakery
+Cafe,Cafe
+Cafe,American
+Cafe,Cafe
+North Indian,Mithai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Chinese,Italian
+Chinese,Fast Food
+Pizza,Pizza
+Chinese,North Indian
+Fast Food,Street Food
+Cafe,Cafe
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Cafe
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+Chinese,Chinese
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Italian
+North Indian,North Indian
+North Indian,North Indian
+Pizza,Pizza
+North Indian,Fast Food
+Bakery,Bakery
+American,American
+North Indian,North Indian
+Chinese,Chinese
+Bakery,Bakery
+Continental,Continental
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Continental
+Chinese,Chinese
+Continental,North Indian
+Fast Food,Cafe
+Bakery,Bakery
+Mughlai,Mughlai
+Street Food,North Indian
+Chinese,North Indian
+North Indian,North Indian
+Desserts,Desserts
+Chinese,North Indian
+Fast Food,Cafe
+North Indian,North Indian
+North Indian,Continental
+Cafe,Fast Food
+Cafe,Cafe
+Mithai,Mithai
+North Indian,North Indian
+Pizza,Pizza
+Chinese,North Indian
+Bakery,Bakery
+Chinese,Chinese
+Cafe,Pizza
+Bakery,Bakery
+South Indian,North Indian
+Chinese,Chinese
+Continental,North Indian
+Italian,Pizza
+Street Food,Street Food
+North Indian,North Indian
+North Indian,Street Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Street Food
+Chinese,North Indian
+American,American
+Pizza,Pizza
+North Indian,North Indian
+Bakery,Bakery
+North Indian,North Indian
+Bakery,Bakery
+North Indian,North Indian
+Cafe,North Indian
+North Indian,North Indian
+Pizza,Pizza
+North Indian,North Indian
+Fast Food,Chinese
+North Indian,North Indian
+North Indian,North Indian
+Bakery,Bakery
+Bakery,Bakery
+North Indian,North Indian
+Mughlai,North Indian
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+Street Food,North Indian
+North Indian,Cafe
+North Indian,North Indian
+Street Food,Mithai
+Bakery,Fast Food
+Fast Food,Fast Food
+North Indian,North Indian
+Street Food,Street Food
+Ice Cream,Ice Cream
+Cafe,American
+North Indian,North Indian
+Street Food,Street Food
+Bakery,Bakery
+Bakery,Bakery
+North Indian,Italian
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+Chinese,North Indian
+Chinese,North Indian
+Cafe,Fast Food
+Fast Food,South Indian
+Desserts,Fast Food
+Fast Food,Chinese
+American,American
+South Indian,South Indian
+North Indian,North Indian
+Chinese,South Indian
+North Indian,American
+North Indian,North Indian
+Mithai,Mithai
+Ice Cream,Ice Cream
+Fast Food,Mithai
+Chinese,North Indian
+Fast Food,North Indian
+Fast Food,Fast Food
+Desserts,Desserts
+North Indian,North Indian
+Continental,North Indian
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,Chinese
+North Indian,Street Food
+Chinese,Mithai
+South Indian,North Indian
+Bakery,Bakery
+Desserts,North Indian
+Fast Food,South Indian
+North Indian,Chinese
+North Indian,Street Food
+Chinese,Fast Food
+Fast Food,North Indian
+North Indian,North Indian
+Chinese,Chinese
+Chinese,Fast Food
+North Indian,Mughlai
+Bakery,Fast Food
+Chinese,Chinese
+Pizza,Italian
+North Indian,Mughlai
+North Indian,North Indian
+Italian,Italian
+American,American
+North Indian,Fast Food
+Chinese,Chinese
+Italian,Cafe
+Cafe,Mughlai
+North Indian,Continental
+North Indian,North Indian
+American,American
+North Indian,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Street Food,North Indian
+North Indian,North Indian
+North Indian,South Indian
+North Indian,Chinese
+North Indian,Italian
+American,American
+Bakery,Bakery
+North Indian,Street Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Street Food
+Continental,Continental
+North Indian,Cafe
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+American,American
+Bakery,Bakery
+American,American
+Chinese,Chinese
+North Indian,North Indian
+South Indian,South Indian
+Bakery,Bakery
+Cafe,American
+Chinese,North Indian
+Cafe,South Indian
+Fast Food,Chinese
+Continental,North Indian
+Fast Food,Fast Food
+Mithai,Mithai
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Mughlai,North Indian
+Bakery,Bakery
+North Indian,Mughlai
+North Indian,North Indian
+American,American
+Continental,Continental
+North Indian,North Indian
+Fast Food,North Indian
+Italian,Italian
+Chinese,Italian
+North Indian,Continental
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,North Indian
+Pizza,Pizza
+Pizza,Pizza
+Street Food,Street Food
+North Indian,North Indian
+South Indian,South Indian
+North Indian,Fast Food
+Bakery,Bakery
+North Indian,Cafe
+Cafe,Chinese
+Fast Food,Fast Food
+American,Pizza
+Fast Food,Bakery
+Fast Food,Fast Food
+North Indian,North Indian
+Cafe,Cafe
+Chinese,Chinese
+American,American
+South Indian,South Indian
+Chinese,Chinese
+Chinese,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Mughlai,Continental
+American,American
+South Indian,Cafe
+Chinese,North Indian
+Bakery,Bakery
+Bakery,Bakery
+American,American
+Pizza,North Indian
+Italian,Cafe
+Continental,Cafe
+Cafe,Cafe
+North Indian,North Indian
+South Indian,South Indian
+North Indian,North Indian
+Cafe,South Indian
+American,American
+Fast Food,Italian
+North Indian,North Indian
+Chinese,Fast Food
+Mughlai,Desserts
+North Indian,North Indian
+Cafe,Cafe
+Ice Cream,Ice Cream
+Chinese,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Mughlai
+American,North Indian
+Italian,North Indian
+Fast Food,Fast Food
+North Indian,Continental
+North Indian,North Indian
+Bakery,North Indian
+Bakery,Bakery
+North Indian,Cafe
+Ice Cream,Ice Cream
+North Indian,North Indian
+Fast Food,Fast Food
+Ice Cream,Ice Cream
+North Indian,North Indian
+North Indian,North Indian
+Ice Cream,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,Chinese
+South Indian,North Indian
+Chinese,North Indian
+Chinese,South Indian
+Chinese,Chinese
+Mithai,Mithai
+Mughlai,Mughlai
+Cafe,Cafe
+North Indian,Ice Cream
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,Continental
+Chinese,Fast Food
+Fast Food,North Indian
+Chinese,Chinese
+Chinese,North Indian
+Chinese,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,Fast Food
+Chinese,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Street Food,Street Food
+Fast Food,Fast Food
+Continental,North Indian
+North Indian,Desserts
+North Indian,North Indian
+Italian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Fast Food
+North Indian,Street Food
+Fast Food,South Indian
+North Indian,North Indian
+North Indian,Chinese
+North Indian,Mughlai
+Bakery,Bakery
+Chinese,Chinese
+North Indian,Fast Food
+South Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+Pizza,Italian
+North Indian,Fast Food
+Chinese,Chinese
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+Cafe,North Indian
+Cafe,Cafe
+Mithai,Mithai
+Continental,Chinese
+North Indian,Mughlai
+Cafe,Desserts
+North Indian,North Indian
+Continental,North Indian
+Mithai,Mithai
+North Indian,North Indian
+Cafe,Cafe
+Chinese,North Indian
+North Indian,North Indian
+Mithai,Mithai
+Chinese,North Indian
+North Indian,Street Food
+Bakery,Cafe
+South Indian,South Indian
+Bakery,Bakery
+Fast Food,Cafe
+Street Food,Street Food
+North Indian,North Indian
+Bakery,Bakery
+Bakery,Bakery
+North Indian,North Indian
+Chinese,North Indian
+Chinese,Chinese
+Pizza,Pizza
+Fast Food,Cafe
+American,American
+North Indian,Cafe
+Cafe,Cafe
+North Indian,North Indian
+Italian,Italian
+North Indian,Cafe
+Chinese,Chinese
+Cafe,North Indian
+American,American
+North Indian,North Indian
+Mithai,Mithai
+North Indian,Chinese
+Desserts,Ice Cream
+Chinese,Chinese
+North Indian,Italian
+North Indian,Continental
+North Indian,North Indian
+North Indian,Chinese
+Pizza,Pizza
+American,American
+North Indian,South Indian
+North Indian,North Indian
+South Indian,North Indian
+American,American
+Bakery,Bakery
+Continental,Cafe
+North Indian,Mughlai
+Chinese,Chinese
+Bakery,Bakery
+North Indian,North Indian
+South Indian,South Indian
+American,American
+North Indian,North Indian
+Italian,American
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Mithai
+Chinese,Chinese
+Fast Food,Desserts
+Bakery,Street Food
+North Indian,North Indian
+Bakery,Bakery
+North Indian,Street Food
+Mithai,Street Food
+American,American
+South Indian,South Indian
+Bakery,Fast Food
+Desserts,Ice Cream
+Pizza,American
+Mithai,Mithai
+Chinese,Chinese
+Continental,North Indian
+Street Food,Street Food
+Chinese,North Indian
+Italian,Italian
+Fast Food,Mughlai
+Mughlai,Mughlai
+North Indian,North Indian
+Bakery,Bakery
+North Indian,North Indian
+Chinese,Fast Food
+Chinese,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Street Food
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+Italian,Italian
+North Indian,North Indian
+Bakery,Bakery
+Continental,Continental
+Chinese,Chinese
+North Indian,North Indian
+Bakery,Bakery
+Mughlai,North Indian
+Ice Cream,Ice Cream
+Ice Cream,Ice Cream
+North Indian,Chinese
+North Indian,Continental
+Fast Food,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Chinese,North Indian
+Fast Food,North Indian
+Street Food,Mithai
+Cafe,Chinese
+Ice Cream,Fast Food
+Cafe,Cafe
+Bakery,Bakery
+North Indian,American
+North Indian,North Indian
+Cafe,American
+Continental,North Indian
+Chinese,South Indian
+North Indian,North Indian
+North Indian,North Indian
+Ice Cream,Ice Cream
+Fast Food,Fast Food
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Ice Cream,Ice Cream
+North Indian,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+Chinese,Chinese
+Mithai,Mithai
+Italian,Cafe
+Cafe,Cafe
+North Indian,North Indian
+Chinese,North Indian
+Chinese,North Indian
+Cafe,Cafe
+North Indian,North Indian
+Cafe,Italian
+North Indian,North Indian
+Continental,Cafe
+Bakery,Bakery
+Mughlai,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Desserts,Bakery
+North Indian,North Indian
+Cafe,Cafe
+Bakery,Bakery
+Italian,Italian
+Street Food,Street Food
+Chinese,North Indian
+North Indian,Continental
+Chinese,Chinese
+Bakery,Fast Food
+American,North Indian
+American,American
+South Indian,South Indian
+Fast Food,Fast Food
+Chinese,Chinese
+Continental,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Desserts,Fast Food
+North Indian,Chinese
+Continental,Cafe
+Pizza,Pizza
+North Indian,Cafe
+North Indian,North Indian
+Bakery,Fast Food
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,South Indian
+North Indian,Cafe
+Bakery,Bakery
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,North Indian
+Bakery,Bakery
+Ice Cream,Ice Cream
+Bakery,Desserts
+North Indian,Cafe
+Pizza,Cafe
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Pizza,Pizza
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Italian,North Indian
+Cafe,Cafe
+Fast Food,Fast Food
+Fast Food,Fast Food
+Fast Food,North Indian
+South Indian,South Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Bakery,Bakery
+Fast Food,Pizza
+North Indian,Continental
+South Indian,Chinese
+Bakery,Bakery
+American,American
+Chinese,Chinese
+Cafe,Cafe
+South Indian,South Indian
+North Indian,North Indian
+Fast Food,Street Food
+Cafe,Cafe
+American,Continental
+Bakery,Bakery
+South Indian,Mithai
+North Indian,Street Food
+Mughlai,Chinese
+North Indian,North Indian
+Chinese,Chinese
+Desserts,Mithai
+South Indian,Chinese
+Cafe,Cafe
+Cafe,South Indian
+Fast Food,Fast Food
+Mithai,Mithai
+Continental,North Indian
+Pizza,Pizza
+North Indian,Chinese
+Mughlai,North Indian
+Chinese,Chinese
+North Indian,North Indian
+North Indian,Bakery
+North Indian,Chinese
+North Indian,Chinese
+Bakery,Bakery
+Chinese,Chinese
+North Indian,South Indian
+Fast Food,Fast Food
+Street Food,North Indian
+Fast Food,Cafe
+North Indian,Continental
+Chinese,Chinese
+Mughlai,North Indian
+Fast Food,Fast Food
+Street Food,Mithai
+North Indian,Mughlai
+Chinese,Chinese
+Continental,North Indian
+Chinese,North Indian
+Fast Food,North Indian
+Chinese,Chinese
+Cafe,Cafe
+Fast Food,Cafe
+Mithai,Mithai
+Bakery,Bakery
+Fast Food,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Italian,Cafe
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,Pizza
+Mithai,Mithai
+Cafe,Cafe
+American,American
+North Indian,Chinese
+Fast Food,North Indian
+North Indian,North Indian
+Mughlai,North Indian
+South Indian,Cafe
+Chinese,Mughlai
+South Indian,South Indian
+Fast Food,North Indian
+North Indian,North Indian
+North Indian,Italian
+Pizza,Italian
+North Indian,North Indian
+North Indian,Chinese
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,Fast Food
+North Indian,North Indian
+Mithai,Mithai
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Chinese,North Indian
+Pizza,Pizza
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Desserts,Desserts
+Mughlai,North Indian
+Italian,Desserts
+North Indian,North Indian
+North Indian,North Indian
+Desserts,Chinese
+Ice Cream,Ice Cream
+Fast Food,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+Continental,North Indian
+Continental,Continental
+Fast Food,North Indian
+Fast Food,North Indian
+Fast Food,Fast Food
+Chinese,Chinese
+Cafe,Cafe
+North Indian,North Indian
+Cafe,Cafe
+Mughlai,Fast Food
+Desserts,Bakery
+Pizza,Pizza
+Cafe,Cafe
+North Indian,Mughlai
+North Indian,Street Food
+South Indian,South Indian
+Ice Cream,Fast Food
+North Indian,North Indian
+Fast Food,Street Food
+South Indian,Bakery
+Chinese,North Indian
+North Indian,Chinese
+North Indian,North Indian
+North Indian,Chinese
+Cafe,Cafe
+Bakery,Bakery
+Cafe,Cafe
+Chinese,Chinese
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+North Indian,Bakery
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Chinese,Chinese
+Continental,South Indian
+North Indian,North Indian
+American,American
+Ice Cream,Ice Cream
+Fast Food,Fast Food
+Ice Cream,Desserts
+Chinese,North Indian
+Pizza,Pizza
+Fast Food,Fast Food
+North Indian,Chinese
+Continental,Continental
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Fast Food,Fast Food
+Chinese,North Indian
+Desserts,Desserts
+North Indian,North Indian
+Italian,Continental
+Cafe,Cafe
+North Indian,North Indian
+Mughlai,North Indian
+Cafe,Cafe
+Continental,Chinese
+Bakery,Bakery
+North Indian,North Indian
+Bakery,North Indian
+Chinese,Chinese
+Chinese,North Indian
+North Indian,North Indian
+Cafe,Cafe
+American,American
+North Indian,South Indian
+North Indian,North Indian
+Bakery,Bakery
+Chinese,American
+Cafe,Cafe
+North Indian,North Indian
+Bakery,Bakery
+Bakery,Italian
+Desserts,Bakery
+Desserts,Mithai
+North Indian,Bakery
+Pizza,Ice Cream
+Fast Food,Fast Food
+Chinese,Chinese
+North Indian,Continental
+American,North Indian
+Pizza,Bakery
+Street Food,Street Food
+North Indian,South Indian
+Chinese,Continental
+North Indian,Street Food
+North Indian,North Indian
+North Indian,Cafe
+North Indian,Mughlai
+Mughlai,Mughlai
+Fast Food,Fast Food
+Cafe,Cafe
+North Indian,North Indian
+Cafe,North Indian
+Pizza,Pizza
+North Indian,North Indian
+North Indian,Mughlai
+North Indian,Chinese
+Street Food,Mithai
+Mughlai,Mughlai
+North Indian,North Indian
+Chinese,Chinese
+Italian,Italian
+North Indian,North Indian
+Mughlai,Mughlai
+Cafe,Continental
+Fast Food,Fast Food
+Bakery,Mithai
+Cafe,Cafe
+South Indian,South Indian
+Bakery,Bakery
+Bakery,Bakery
+North Indian,North Indian
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Continental,Continental
+North Indian,North Indian
+North Indian,North Indian
+North Indian,South Indian
+Fast Food,North Indian
+North Indian,North Indian
+Fast Food,Chinese
+North Indian,North Indian
+Street Food,Fast Food
+Bakery,Bakery
+North Indian,North Indian
+Continental,Mughlai
+Cafe,Cafe
+North Indian,North Indian
+Continental,Cafe
+South Indian,South Indian
+North Indian,North Indian
+South Indian,Mughlai
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Mithai,Mithai
+North Indian,North Indian
+Ice Cream,Ice Cream
+Street Food,Street Food
+Chinese,Mughlai
+Chinese,Cafe
+Italian,Italian
+Bakery,Fast Food
+North Indian,South Indian
+North Indian,North Indian
+Cafe,Cafe
+Street Food,Italian
+North Indian,North Indian
+Chinese,Fast Food
+North Indian,Chinese
+Chinese,Chinese
+Chinese,American
+Desserts,Bakery
+North Indian,North Indian
+Street Food,Street Food
+North Indian,North Indian
+Continental,Pizza
+Chinese,Chinese
+North Indian,North Indian
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Fast Food
+Street Food,North Indian
+Bakery,Bakery
+Desserts,Chinese
+Chinese,Chinese
+North Indian,Mughlai
+North Indian,North Indian
+Mithai,Mithai
+North Indian,North Indian
+North Indian,South Indian
+Bakery,Bakery
+Continental,North Indian
+Fast Food,Chinese
+Ice Cream,Ice Cream
+Street Food,North Indian
+Fast Food,Fast Food
+Cafe,Cafe
+North Indian,North Indian
+Chinese,North Indian
+Cafe,Continental
+Mughlai,Fast Food
+Fast Food,Pizza
+Continental,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Chinese
+Chinese,Fast Food
+Chinese,Chinese
+North Indian,Chinese
+Cafe,Cafe
+Fast Food,North Indian
+Street Food,Street Food
+North Indian,Italian
+Bakery,Bakery
+North Indian,North Indian
+Pizza,Pizza
+Bakery,Desserts
+South Indian,South Indian
+Pizza,Italian
+Continental,Italian
+Mithai,South Indian
+Chinese,Chinese
+Chinese,Fast Food
+North Indian,American
+Chinese,Chinese
+Bakery,North Indian
+Bakery,Bakery
+North Indian,North Indian
+Chinese,Fast Food
+Cafe,Continental
+Bakery,Bakery
+Mithai,North Indian
+Ice Cream,Ice Cream
+Fast Food,Fast Food
+Mithai,Mithai
+Mithai,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Fast Food,Fast Food
+Bakery,Bakery
+Desserts,Cafe
+Street Food,Cafe
+North Indian,South Indian
+Cafe,Cafe
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+North Indian,North Indian
+Fast Food,Fast Food
+Street Food,South Indian
+Chinese,North Indian
+Pizza,Pizza
+Mithai,Mithai
+North Indian,Continental
+Chinese,Bakery
+Chinese,Mughlai
+North Indian,American
+Cafe,Cafe
+American,American
+North Indian,North Indian
+North Indian,Street Food
+South Indian,South Indian
+North Indian,North Indian
+Bakery,Bakery
+Chinese,Chinese
+South Indian,Mithai
+North Indian,South Indian
+North Indian,North Indian
+Italian,Italian
+Chinese,Chinese
+North Indian,North Indian
+Chinese,North Indian
+North Indian,North Indian
+South Indian,South Indian
+Fast Food,Fast Food
+North Indian,Mughlai
+North Indian,Fast Food
+Mithai,Mithai
+Mughlai,Mughlai
+North Indian,North Indian
+Fast Food,Fast Food
+Cafe,Cafe
+Cafe,Fast Food
+Fast Food,Fast Food
+Street Food,Street Food
+Chinese,Chinese
+Cafe,Cafe
+Cafe,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Chinese
+North Indian,North Indian
+Italian,Italian
+Mughlai,Mughlai
+Bakery,Bakery
+Street Food,Fast Food
+North Indian,Chinese
+Mithai,Mithai
+North Indian,Italian
+Fast Food,North Indian
+Bakery,Bakery
+Chinese,North Indian
+Cafe,Cafe
+Mughlai,North Indian
+North Indian,Italian
+North Indian,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Chinese
+North Indian,North Indian
+North Indian,Street Food
+Mughlai,Mithai
+North Indian,Chinese
+North Indian,North Indian
+American,American
+North Indian,North Indian
+Continental,Italian
+North Indian,North Indian
+North Indian,North Indian
+Italian,Italian
+Mithai,Mithai
+Mughlai,Chinese
+Italian,Pizza
+North Indian,North Indian
+Fast Food,Fast Food
+North Indian,North Indian
+Mughlai,Continental
+South Indian,South Indian
+Fast Food,Chinese
+Mithai,Fast Food
+Bakery,Chinese
+Chinese,Cafe
+Italian,Pizza
+North Indian,Mughlai
+North Indian,North Indian
+South Indian,Street Food
+North Indian,North Indian
+Fast Food,Fast Food
+Cafe,Cafe
+Cafe,Cafe
+North Indian,North Indian
+Mughlai,Italian
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Cafe
+South Indian,South Indian
+North Indian,Chinese
+North Indian,Chinese
+Cafe,Cafe
+North Indian,North Indian
+Fast Food,Desserts
+Pizza,American
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Mithai,Mithai
+Ice Cream,Ice Cream
+Cafe,Cafe
+American,American
+Desserts,Bakery
+Pizza,Pizza
+North Indian,North Indian
+American,American
+Cafe,Cafe
+Ice Cream,Ice Cream
+Mughlai,Mughlai
+Ice Cream,Ice Cream
+Street Food,North Indian
+Italian,Chinese
+Mithai,Mithai
+Cafe,Fast Food
+Italian,Italian
+Pizza,Italian
+North Indian,North Indian
+Mughlai,North Indian
+Fast Food,Fast Food
+Mughlai,Mughlai
+Fast Food,Bakery
+Mithai,Mithai
+North Indian,North Indian
+North Indian,Continental
+Bakery,Bakery
+Cafe,Cafe
+Mithai,Mithai
+North Indian,North Indian
+North Indian,Italian
+North Indian,Fast Food
+North Indian,North Indian
+Ice Cream,Ice Cream
+Bakery,Bakery
+North Indian,Continental
+Cafe,Cafe
+North Indian,North Indian
+North Indian,Continental
+Bakery,Bakery
+Chinese,Chinese
+Italian,Fast Food
+Chinese,Bakery
+North Indian,Continental
+North Indian,North Indian
+Ice Cream,Ice Cream
+Fast Food,North Indian
+Continental,Continental
+North Indian,Street Food
+North Indian,North Indian
+South Indian,South Indian
+North Indian,North Indian
+Cafe,Cafe
+North Indian,North Indian
+Bakery,Continental
+Bakery,Italian
+Pizza,Pizza
+Chinese,Chinese
+Mughlai,Mughlai
+Chinese,North Indian
+Pizza,Pizza
+Pizza,Pizza
+South Indian,Street Food
+Bakery,Fast Food
+American,American
+North Indian,North Indian
+North Indian,North Indian
+Cafe,Continental
+Fast Food,Fast Food
+North Indian,Continental
+American,American
+American,American
+South Indian,South Indian
+Street Food,Street Food
+Ice Cream,Fast Food
+Continental,Continental
+Street Food,Fast Food
+Fast Food,North Indian
+North Indian,North Indian
+Cafe,Cafe
+Italian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+North Indian,North Indian
+Ice Cream,Ice Cream
+South Indian,South Indian
+North Indian,North Indian
+Fast Food,Fast Food
+Cafe,Cafe
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Mithai,Mithai
+North Indian,Cafe
+Cafe,Continental
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,North Indian
+North Indian,North Indian
+Continental,Cafe
+Bakery,Bakery
+North Indian,Chinese
+Desserts,American
+Bakery,North Indian
+Cafe,Mughlai
+North Indian,North Indian
+North Indian,North Indian
+American,American
+Fast Food,Fast Food
+Mithai,Mithai
+Street Food,Street Food
+Continental,Continental
+Bakery,Continental
+Fast Food,Fast Food
+Cafe,North Indian
+North Indian,Cafe
+North Indian,Continental
+Chinese,Chinese
+Desserts,Fast Food
+Ice Cream,Ice Cream
+Bakery,Chinese
+Ice Cream,Ice Cream
+North Indian,North Indian
+North Indian,Mughlai
+North Indian,North Indian
+American,American
+Chinese,North Indian
+North Indian,North Indian
+Chinese,North Indian
+North Indian,Continental
+North Indian,Cafe
+Italian,Italian
+North Indian,Continental
+Ice Cream,Ice Cream
+Street Food,Street Food
+North Indian,North Indian
+Mughlai,Mughlai
+Mithai,Mithai
+Mithai,Mughlai
+North Indian,Fast Food
+Pizza,Pizza
+North Indian,Street Food
+Continental,Chinese
+North Indian,Street Food
+North Indian,North Indian
+North Indian,Mughlai
+Chinese,North Indian
+Mughlai,Mughlai
+Chinese,Chinese
+American,American
+North Indian,North Indian
+North Indian,North Indian
+North Indian,Continental
+Mithai,Mithai
+Chinese,Chinese
+Chinese,Chinese
+Ice Cream,Ice Cream
+Chinese,Chinese
+Pizza,Pizza
+North Indian,Chinese
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Chinese,North Indian
+Street Food,Street Food
+North Indian,North Indian
+North Indian,Mithai
+North Indian,North Indian
+Mithai,Mithai
+Bakery,Bakery
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Continental
+North Indian,North Indian
+Pizza,Pizza
+North Indian,North Indian
+American,Italian
+North Indian,Fast Food
+North Indian,North Indian
+Chinese,Chinese
+North Indian,North Indian
+Bakery,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Desserts,Bakery
+American,American
+Mithai,Mithai
+North Indian,Continental
+Mithai,Mithai
+Fast Food,Italian
+North Indian,North Indian
+Ice Cream,Ice Cream
+Cafe,Cafe
+American,Desserts
+North Indian,North Indian
+Street Food,Street Food
+South Indian,South Indian
+Street Food,Fast Food
+North Indian,Mughlai
+Bakery,Bakery
+Chinese,Chinese
+North Indian,North Indian
+Cafe,Cafe
+North Indian,Mughlai
+Ice Cream,Street Food
+North Indian,North Indian
+Pizza,Pizza
+Italian,Fast Food
+Chinese,Chinese
+North Indian,Continental
+Chinese,Chinese
+North Indian,Chinese
+Italian,Italian
+Mughlai,North Indian
+Bakery,Bakery
+Chinese,North Indian
+Street Food,North Indian
+Cafe,Cafe
+South Indian,Bakery
+North Indian,North Indian
+Cafe,Cafe
+Mughlai,Mughlai
+Pizza,Pizza
+North Indian,Fast Food
+North Indian,North Indian
+Chinese,Chinese
+Italian,Continental
+Chinese,Chinese
+Continental,North Indian
+American,American
+North Indian,North Indian
+North Indian,North Indian
+Fast Food,Chinese
+American,American
+Fast Food,Fast Food
+Cafe,Cafe
+Fast Food,Fast Food
+North Indian,Bakery
+Cafe,Chinese
+North Indian,North Indian
+Bakery,Cafe
+Chinese,Chinese
+Continental,North Indian
+Bakery,North Indian
+Italian,Italian
+South Indian,South Indian
+Chinese,Chinese
+Mithai,Mithai
+Mithai,Mithai
+Bakery,Fast Food
+North Indian,North Indian
+North Indian,Fast Food
+North Indian,North Indian
+South Indian,South Indian
+North Indian,North Indian
+Mughlai,North Indian
+Continental,Cafe
+North Indian,Continental
+Cafe,Cafe
+Cafe,Cafe
+Bakery,Bakery
+South Indian,South Indian
+Fast Food,North Indian
+North Indian,North Indian
+North Indian,Continental
+Desserts,Bakery
+Mughlai,Mughlai
+North Indian,North Indian
+Fast Food,North Indian
+Italian,Italian
+North Indian,North Indian
+Pizza,Pizza
+North Indian,North Indian
+Fast Food,Fast Food
+Bakery,Pizza
+North Indian,Fast Food
+Mughlai,Italian
+North Indian,Cafe
+Bakery,Bakery
+North Indian,Continental
+Cafe,Cafe
+Fast Food,Cafe
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Mughlai,Mughlai
+North Indian,Cafe
+South Indian,North Indian
+North Indian,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Bakery,Bakery
+Bakery,Bakery
+South Indian,Cafe
+North Indian,Italian
+Desserts,South Indian
+North Indian,Italian
+Chinese,North Indian
+Chinese,Chinese
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+North Indian,North Indian
+Chinese,Chinese
+North Indian,Cafe
+Bakery,Bakery
+North Indian,Chinese
+North Indian,South Indian
+Fast Food,Fast Food
